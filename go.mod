@@ -1,4 +1,4 @@
-module github.com/caddy-dns/gcore
+module github.com/davidventura/gcore
 
 go 1.23.1
 
